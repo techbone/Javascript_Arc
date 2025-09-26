@@ -14,3 +14,8 @@ for (let i = 1; i < 11; i++) {
 // Iteration 8
 //  Iteration 9
 //  Iteration 10
+
+//store multple vlaues in one variable
+let colors = ["red", "green", "blue"];
+console.log(colors[0]); // "red"
+console.log(colors.length); // 3

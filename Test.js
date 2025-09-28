@@ -20,4 +20,5 @@ let colors = ["red", "green", "blue", "apu"];
 console.log(colors[0]); // "red"
 console.log(colors.length); // 3
 
-q
+// revised version from the above
+console.log(" revision") 
